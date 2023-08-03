@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/matheFontenele/Fontenele.git/static/css/main.dcfb119a.css",
+    "main.js": "/matheFontenele/Fontenele.git/static/js/main.8113077b.js",
+    "static/media/circulo.png": "/matheFontenele/Fontenele.git/static/media/circulo.3372f177c8f6027a4a46.png",
+    "static/media/coffee.svg": "/matheFontenele/Fontenele.git/static/media/coffee.883f3d72bc487a50b763d000aa86d81c.svg",
+    "index.html": "/matheFontenele/Fontenele.git/index.html",
+    "main.dcfb119a.css.map": "/matheFontenele/Fontenele.git/static/css/main.dcfb119a.css.map",
+    "main.8113077b.js.map": "/matheFontenele/Fontenele.git/static/js/main.8113077b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcfb119a.css",
+    "static/js/main.8113077b.js"
+  ]
+}
